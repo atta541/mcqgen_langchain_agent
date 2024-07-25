@@ -21,7 +21,7 @@
 Here are screenshots of the application:
 
 ![App Screenshot 1](https://raw.githubusercontent.com/atta541/mcqgen_langchain_agent/main/Screenshot%202024-07-25%20184422.png)
-![App Screenshot 2](https://raw.githubusercontent.com/atta541/mcqgen_langchain_agent/main/Screenshot-2.png)
+![App Screenshot 2](https://raw.githubusercontent.com/atta541/mcqgen_langchain_agent/main/Screenshot%202024-07-25%20184434.png)
 
 
 
